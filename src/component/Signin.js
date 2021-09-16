@@ -8,10 +8,8 @@ function Signin(props) {
     const onSuccess = (res) => {
 
       console.log('Login Success: currentUser:', res.profileObj);
-      alert(
-        `환영합니다 ${res.profileObj.name} 님😍`
-      );
-      props.상태변경(true)
+      alert(`환영합니다 ${res.profileObj.name} 님😍`);
+      props.setLogin(true)
     //   refreshTokenSetup(res);
     };
   

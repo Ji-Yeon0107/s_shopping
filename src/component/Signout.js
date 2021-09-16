@@ -4,9 +4,10 @@ import { GoogleLogout } from 'react-google-login';
 const clientId='324115389052-enbpgffd59criuhmc5tes9ire852h38d.apps.googleusercontent.com';
 
 
-function Signout() {
+function Signout(props) {
   const onSuccess = () => {
     alert('로그아웃 되었습니다.');
+    props.setLogin(false)
   };
 
   return (

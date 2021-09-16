@@ -1,0 +1,62 @@
+[
+  {
+    "id" : 6,
+    "title" : "White Tea REPAIR BODY CREAM1",
+    "content" :  "White Tea",
+    "price" : 130000
+  },
+  {
+    "id" : 7,
+    "title" : "Ginger Orange REPAIR BODY CREAM",
+    "content" :  "Ginger Orange",
+    "price" : 32000
+  },
+  {
+    "id" : 8,
+    "title" : "Rose Tea REPAIR BODY CREAM",
+    "content" :  "Rose Tea",
+    "price" : 530000
+  },
+  {
+    "id" : 9,
+    "title" : "Lavander Apple REPAIR BODY CREAM",
+    "content" :  "Lavander Apple",
+    "price" : 510000
+  },
+  {
+    "id" : 10,
+    "title" : "BODY SCRUB COLLECTION EDITION",
+    "content" :  "Body Scrub, For Bath",
+    "price" : 80000
+  },
+  {
+    "id" : 11,
+    "title" : "BODY SCRUB1",
+    "content" :  "Lavender Apple",
+    "price" : 90000
+  },
+  {
+    "id" : 12,
+    "title" : "BODY SCRUB2",
+    "content" :  "Mango Kiwi",
+    "price" : 10000
+  },
+  {
+    "id" : 13,
+    "title" : "BODY SCRUB3",
+    "content" :  "Blishfull Green",
+    "price" : 130000
+  },
+  {
+    "id" : 14,
+    "title" : "BODY SCRUB4",
+    "content" :  "Delicate Jasmine",
+    "price" : 130000
+  },
+  {
+    "id" : 15,
+    "title" : "BODY SCRUB5",
+    "content" :  "Vanilla",
+    "price" : 130000
+  }
+]
